@@ -1,0 +1,26 @@
+{
+  "name": "expressboilerplate",
+  "version": "1.0.0",
+  "description": "a boilerplate for all express based projects",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjcool100/expressBoilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjcool100/expressBoilerplate/issues"
+  },
+  "homepage": "https://github.com/rjcool100/expressBoilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
